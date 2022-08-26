@@ -558,6 +558,7 @@ a {
   border-style: solid;
   border-color: #fff;
   transition: all .8s linear;
+  word-wrap: break-word;
 }
 .portfolio__item:hover .portfolio__item__hover:before,
 .portfolio__item:hover .portfolio__item__hover:after {
@@ -578,6 +579,7 @@ a {
   font-size: 1.3em;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
+  word-wrap: break-word;
 }
 .portfolio__item__hover__base-info {
   position: absolute;
